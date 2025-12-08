@@ -31,3 +31,10 @@ environments.
 
 This repository is strictly NOT permissive for commercial use. Production 
 deployment or acquisition requires a verified Commercial Agreement.
+
+## 🔐 Licensing and Distribution Notice
+Colbee Rust Core is a specialized financial prototype developed for high-stakes environments. 
+
+This repository is strictly NOT permissive for commercial use. Any production 
+deployment or revenue-generating activity using this source code requires a 
+formal Commercial Agreement issued by the author.

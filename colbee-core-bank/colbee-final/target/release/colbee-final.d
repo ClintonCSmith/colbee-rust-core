@@ -1,0 +1,1 @@
+C:\ColbeeSystem\RustCore\colbee_rust_core\colbee-core-bank\colbee-final\target\release\colbee-final.exe: C:\ColbeeSystem\RustCore\colbee_rust_core\colbee-core-bank\colbee-final\src\main.rs C:\ColbeeSystem\RustCore\colbee_rust_core\colbee-core-bank\colbee-final\src\sentinel.rs

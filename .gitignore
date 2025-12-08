@@ -1,0 +1,6 @@
+﻿# Ignore configuration files with sensitive data
+/config/
+*.toml
+
+# Ignore build artifacts
+/target/

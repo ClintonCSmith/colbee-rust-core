@@ -24,3 +24,10 @@ This is the **public prototype** of the system currently under exclusive commerc
 - Represent this as production-ready without audit
 
 © 2025 Clinton Smith — All rights reserved for commercial use.
+
+## 🔐 Commercial Scrutiny & Licensing
+Colbee Rust Core is a **TRL 7 Post-Quantum prototype** evaluated for high-stakes 
+environments. 
+
+This repository is strictly NOT permissive for commercial use. Production 
+deployment or acquisition requires a verified Commercial Agreement.
